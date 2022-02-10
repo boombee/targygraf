@@ -1,1 +1,18 @@
-
+{
+   "name":"Gépészmérnök",
+   "description":"Gépészmérnöki alapszak - teszt",
+   "curriculum_updated_at":"2022-02-10",
+   "course_blocks":[
+      {
+         "name":"1. félév",
+         "row":0,
+         "courses":[
+            {
+               "code":"ZEMIMAB144H",
+               "name":"Matematikai analízis I.",
+               "credits":4
+            },
+         ]
+      }
+   ]
+}
